@@ -14,9 +14,13 @@ Aynı okulda okuyan, aynı kurumda çalışan veya aynı şehirde yaşayan kişi
 Markdown biyografi dosyalarını işler, JSON formatında yapılandırılmış veri üretir ve bu verileri grafik tabanlı ilişki haritalarına dönüştürür.
 
 📊 Örnek Kullanım Alanları
+
 📌 Aynı okulda aynı dönemde okuyan kişileri bulma
+
 📌 Aynı şirkette aynı dönemde çalışan kişileri tespit etme
+
 📌 Aynı memleketten olan insanları listeleme
+
 📌 Aynı şehirde yaşayan insanları keşfetme 
 
 Örneğin:
