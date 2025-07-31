@@ -1,0 +1,27 @@
+**Hatice Eren Biyografisi**
+
+**Erken Yaşam ve Kökler**
+Hatice Eren, 15.06.1988 tarihinde İzmir'de dünyaya gelmiştir. Çocukluğunu İzmir'in Karşıyaka ilçesinde, babası emekli coğrafya öğretmeni olan Kemal Bey ve ev hanımı annesi Ayşe Hanım'ın tek çocuğu olarak geçirdi. Aile kökenleri, Ege'nin zengin kültürel mirasına dayanmakta olup, Hatice küçük yaşlardan itibaren çevresindeki toplumsal dinamiklere ve doğal güzelliklere karşı derin bir merak ve duyarlılık geliştirmiştir. Bu duyarlılık, ileriki meslek seçiminde ve yaşam felsefesinde belirleyici bir rol oynamıştır.
+
+**Eğitim Yılları**
+Eğitim hayatına İzmir Göztepe İlkokulu'nda başlayan Hatice, 1994-2002 yılları arasında burada ilköğrenimini tamamladı. Ardından girdiği sınavlarla İzmir Fen Lisesi'ni kazanarak 2000-2004 yılları arasında lise eğitimini sürdürdü. Fen lisesi deneyimi, ona analitik düşünme ve problem çözme becerileri kazandırsa da, asıl ilgi alanının insan hikayeleri ve toplumsal olaylar olduğunu fark etti. Bu doğrultuda, üniversite tercihi olarak Marmara Üniversitesi İletişim Fakültesi Gazetecilik Bölümü'nü seçti ve 2004-2008 yılları arasında lisans eğitimini başarıyla tamamladı. Lisans eğitimi sırasında özellikle araştırmacı gazetecilik ve belgesel sinema alanlarına büyük ilgi duydu. Bu alandaki bilgi ve yeteneklerini geliştirmek amacıyla, 2009-2011 yılları arasında İstanbul Bilgi Üniversitesi'nde Belgesel Sinema ve Televizyon Programcılığı üzerine yüksek lisans yaparak uzmanlaştı.
+
+**Profesyonel Kariyer**
+Hatice Eren, profesyonel kariyerine lisans eğitiminin hemen ardından 2008 yılında İzmir merkezli yerel bir gazete olan "Ege Haber"de stajyer muhabir olarak adım attı. 2010 yılına kadar burada çeşitli haber ve röportajlara imza attıktan sonra, yüksek lisans eğitimi ve kariyer hedefleri doğrultusunda İstanbul'a taşındı. Yüksek lisansını tamamladığı süreçte, 2010 yılında ulusal çapta tanınan bir haber kanalı olan NTV'de araştırmacı gazeteci olarak çalışmaya başladı. NTV'de çalıştığı 2015 yılına kadar, Türkiye'nin farklı bölgelerindeki çevre sorunları, çocuk işçiliği, kadın hakları ve kültürel mirasın korunması gibi konularda birçok önemli ve etkileyici habere imza attı. Özellikle "Toprağın Gözyaşları" başlıklı çevre belgesel serisiyle dikkatleri üzerine çekti.
+
+2015 yılında NTV'den ayrılarak bağımsız belgesel projelerine odaklanma kararı aldı. Bir süre freelance olarak çeşitli yapım şirketleriyle iş birlikleri yaptıktan sonra, 2018 yılında kendi yapım şirketi olan "Gerçek Hikayeler Yapım"ı kurdu. Bu şirket aracılığıyla toplumsal farkındalığı artırmayı hedefleyen belgesel filmler ve kısa videolar üreterek bağımsız yönetmenlere de platform sağladı.
+
+**Girişimcilik / Akademik Çalışmalar**
+"Gerçek Hikayeler Yapım"ın kurucusu ve direktörü olarak Hatice Eren, sadece kendi projelerini hayata geçirmekle kalmamış, aynı zamanda belgesel sinema alanında genç yeteneklere mentorluk yapmıştır. Şirketi aracılığıyla ürettiği ve yönetmenliğini üstlendiği öne çıkan çalışmaları şunlardır:
+*   "Sessiz Çığlık: Endüstriyel Atıkların Gölgesinde" (Belgesel Film, 2019) - Ulusal ve uluslararası festivallerde "En İyi Çevre Belgeseli" ödüllerini kazandı.
+*   "Kayıp Kuşaklar: Göç ve Gençlik" (Belgesel Serisi, 2021) - Farklı şehirlerdeki göçmen gençlerin entegrasyon süreçlerini ele aldı.
+*   "Anadolu'nun Kayıp Sesleri" (Araştırma Yazısı, 2022) - Çeşitli kültürel dergilerde yayınlanmış, Anadolu'daki kaybolmaya yüz tutmuş halk ezgileri üzerine bir çalışmadır.
+
+**Sosyal Sorumluluk ve Etkiler**
+Hatice Eren, kariyeri boyunca sosyal sorumluluk projelerine aktif olarak katılım göstermiştir. Belgesel filmleri ve araştırmacı haberciliği aracılığıyla toplumsal sorunlara ışık tutarak, özellikle çevre bilinci, insan hakları ve kültürel mirasın korunması konularında önemli farkındalık yaratmıştır. "Çevreci Belgeselciler Ağı"nın kurucu üyelerinden biri olup, bu platform aracılığıyla çevre temalı belgesel projelerinin desteklenmesi ve yaygınlaştırılması için çalışmalar yürütmektedir. Ayrıca, üniversitelerde ve sivil toplum kuruluşlarında belgesel sinema ve araştırmacı gazetecilik üzerine seminerler vermektedir.
+
+**Kişisel Yaşam**
+Hatice Eren, 2014 yılında reklamcılık sektöründe kreatif direktör olarak çalışan Can Yaman ile evlendi. Çift, İstanbul'un Kadıköy ilçesinde yaşamaktadır. 2017 yılında kızları Defne Eren dünyaya gelmiştir. Hatice, yoğun iş temposuna rağmen, doğa yürüyüşleri yapmaktan, analog fotoğraf çekmekten ve özellikle tarih, sosyoloji ve antropoloji konularında kitaplar okumaktan keyif alır. İstanbul'daki bağımsız sanat galerilerini ve belgesel film gösterimlerini takip etmek de hobileri arasındadır. Köpekleri "Maya" ile birlikte şehirdeki parklarda vakit geçirmeyi sever.
+
+**Mevcut Çalışmalar ve Gelecek Hedefler**
+Şu anda "Gerçek Hikayeler Yapım" bünyesinde, Türkiye'deki deprem sonrası kültürel mirasın yeniden inşası üzerine uzun metrajlı bir belgesel projesi üzerinde çalışmaktadır. "Umut ve Direnişin Mimarları" başlığını taşıyan bu proje, 2024 sonunda tamamlanması hedeflenmektedir. Gelecek hedefleri arasında, yapım şirketini uluslararası alanda daha fazla tanınır hale getirmek, genç belgesel yönetmenlerine daha fazla olanak sağlamak ve toplumsal değişime katkı sağlayacak daha fazla hikaye anlatmaktır. Uzun vadede, Türkiye'de belgesel sinema eğitimi veren, uygulamalı ve araştırmaya dayalı bir akademi kurma hayali de bulunmaktadır.

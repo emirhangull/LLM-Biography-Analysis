@@ -1,0 +1,23 @@
+source,target,relation_type
+Ayla Çakır,Gülnur Yıldız,DOKTORA_ARKADASI
+Gülnur Yıldız,Ayla Çakır,DOKTORA_ARKADASI
+Ayla Çakır,İbrahim Sezer,DOKTORA_ARKADASI
+İbrahim Sezer,Ayla Çakır,DOKTORA_ARKADASI
+Burhan Doğan,Rıza Erdoğan,DOKTORA_ARKADASI
+Rıza Erdoğan,Burhan Doğan,DOKTORA_ARKADASI
+Burhan Doğan,Zeynep Demir,DOKTORA_ARKADASI
+Zeynep Demir,Burhan Doğan,DOKTORA_ARKADASI
+Can Uçar,Nefise Aksoy,DOKTORA_ARKADASI
+Nefise Aksoy,Can Uçar,DOKTORA_ARKADASI
+Can Uçar,Semra Eren,DOKTORA_ARKADASI
+Semra Eren,Can Uçar,DOKTORA_ARKADASI
+İpek Aksoy,Nihat Şimşek,DOKTORA_ARKADASI
+Nihat Şimşek,İpek Aksoy,DOKTORA_ARKADASI
+Mert Türkmen,Sedef Sezer,DOKTORA_ARKADASI
+Sedef Sezer,Mert Türkmen,DOKTORA_ARKADASI
+Nefise Aksoy,Semra Eren,DOKTORA_ARKADASI
+Semra Eren,Nefise Aksoy,DOKTORA_ARKADASI
+Rıza Erdoğan,Zeynep Demir,DOKTORA_ARKADASI
+Zeynep Demir,Rıza Erdoğan,DOKTORA_ARKADASI
+Salih Demir,Vildan Yılmaz,DOKTORA_ARKADASI
+Vildan Yılmaz,Salih Demir,DOKTORA_ARKADASI
