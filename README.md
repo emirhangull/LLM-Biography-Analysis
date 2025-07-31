@@ -30,15 +30,25 @@ Kolay Veri İşleme:
 
 Örneğin:
 {
+
   "source": "Zehra Ermiş",
+  
   "target": "Zeynep Uzun",
+  
   "relations": [
+  
     "AYNI_MEMLEKETTEN",
+    
     "LISE_ARKADASI",
+    
     "UNIVERSITE_ARKADASI",
+    
     "MESLEKTAS",
+    
     "AYNI_KURUMDA_CALISMIS"
+    
   ]
+  
 }
 
 
