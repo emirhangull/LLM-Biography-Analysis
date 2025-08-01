@@ -1,0 +1,16 @@
+//İster1: Ben Gülnur Yıldız, ASELSAN’da çalışan Ahmet Doğan adlı kişiye nasıl ulaşabilirim?
+MATCH p=(source:Person {ad: "Gülnur Yıldız"})-[:RELATED*1..3]->(target:Person {ad: "Ahmet Doğan"})
+WHERE target.calistigi_kurumlar CONTAINS "ASELSAN" 
+RETURN p LIMIT 1
+
+//İster 2: Ben Nefise Aydın, ilkokul arkadaşlarımın tüm üniversite arkadaşlarını bulmak istiyorum.
+MATCH path =((p1:Person{ad:"Nefise Aydın"})-[r1:ILKOKUL_ARKADASI]->(p2:Person)-[r2:UNIVERSITE_ARKADASI]->(p3:Person))
+RETURN path
+
+//İster 3: Ben İzzet Yıldız, hemşehrilerimin şu an nerelerde çalıştığını bulmak istiyorum.
+MATCH (p1:Person{ad:"İzzet Yıldız"})-[r1:AYNI_MEMLEKETTEN]->(p2:Person)
+RETURN p2.calistigi_kurumlar
+
+//İster 4: Ben Emrah Baran, yüksek lisans arkadaşlarımın çocuklarını listelemek istiyorum.
+MATCH (p1:Person{ad:"Emrah Baran"})-[r1:YUKSEK_LISANS_ARKADASI]-(p2:Person)
+RETURN p2.ad AS Arkadasim , p2.cocuklar AS cocuklari
